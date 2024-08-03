@@ -18,10 +18,10 @@ Examples and usage instructions for the `os` module, which provides a way of usi
 ### 2. [sys](https://github.com/justinbrianhwang/python-module/tree/main/Sys)
 Examples and usage instructions for the `sys` module, which provides access to some variables used or maintained by the Python interpreter and to functions that interact strongly with the interpreter.
 
-### 3. re
+### 3. [re](https://github.com/justinbrianhwang/python-module/tree/main/RE)
 Examples and usage instructions for the `re` module, which provides support for regular expressions.
 
-### 4. json
+### 4. [json](https://github.com/justinbrianhwang/python-module/tree/main/JSON)
 Examples and usage instructions for the `json` module, which provides a way to encode and decode data in JSON format.
 
 ### 5. requests
