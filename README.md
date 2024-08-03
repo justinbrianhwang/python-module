@@ -12,7 +12,7 @@ This repository serves as a comprehensive guide and resource hub for Python deve
 ## Modules Covered
 Below is a list of Python modules we plan to cover. Each module will have its own section with detailed examples and usage instructions.
 
-### 1. os
+### 1. [os](https://github.com/justinbrianhwang/python-module/tree/main/OS)
 Examples and usage instructions for the `os` module, which provides a way of using operating system dependent functionality like reading or writing to the file system.
 
 ### 2. sys
