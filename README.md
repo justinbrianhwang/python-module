@@ -15,7 +15,7 @@ Below is a list of Python modules we plan to cover. Each module will have its ow
 ### 1. [os](https://github.com/justinbrianhwang/python-module/tree/main/OS)
 Examples and usage instructions for the `os` module, which provides a way of using operating system dependent functionality like reading or writing to the file system.
 
-### 2. sys
+### 2. [sys](https://github.com/justinbrianhwang/python-module/tree/main/Sys)
 Examples and usage instructions for the `sys` module, which provides access to some variables used or maintained by the Python interpreter and to functions that interact strongly with the interpreter.
 
 ### 3. re
