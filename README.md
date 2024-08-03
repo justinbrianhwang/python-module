@@ -27,7 +27,7 @@ Examples and usage instructions for the `json` module, which provides a way to e
 ### 5. requests
 Examples and usage instructions for the `requests` module, which allows you to send HTTP/1.1 requests easily.
 
-### 6. numpy
+### 6. [numpy](https://github.com/justinbrianhwang/python-module/blob/main/Numpy/explanation.md)
 Examples and usage instructions for the `numpy` module, which provides support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
 ### 7. [pandas](https://github.com/justinbrianhwang/python-module/tree/main/Pandas)
