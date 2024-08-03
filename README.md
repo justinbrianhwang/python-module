@@ -30,7 +30,7 @@ Examples and usage instructions for the `requests` module, which allows you to s
 ### 6. numpy
 Examples and usage instructions for the `numpy` module, which provides support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
-### 7. pandas
+### 7. [pandas](https://github.com/justinbrianhwang/python-module/tree/main/Pandas)
 Examples and usage instructions for the `pandas` module, which provides data structures and data analysis tools.
 
 ### 8. matplotlib
