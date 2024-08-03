@@ -24,7 +24,7 @@ Examples and usage instructions for the `re` module, which provides support for 
 ### 4. [json](https://github.com/justinbrianhwang/python-module/tree/main/JSON)
 Examples and usage instructions for the `json` module, which provides a way to encode and decode data in JSON format.
 
-### 5. requests
+### 5. [requests](https://github.com/justinbrianhwang/python-module/tree/main/Requests)
 Examples and usage instructions for the `requests` module, which allows you to send HTTP/1.1 requests easily.
 
 ### 6. [numpy](https://github.com/justinbrianhwang/python-module/blob/main/Numpy/explanation.md)
