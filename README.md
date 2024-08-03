@@ -33,7 +33,7 @@ Examples and usage instructions for the `numpy` module, which provides support f
 ### 7. [pandas](https://github.com/justinbrianhwang/python-module/tree/main/Pandas)
 Examples and usage instructions for the `pandas` module, which provides data structures and data analysis tools.
 
-### 8. matplotlib
+### 8. [matplotlib](https://github.com/justinbrianhwang/python-module/tree/main/matplotlib)
 Examples and usage instructions for the `matplotlib` module, which provides plotting functionalities.
 
 ### 9. scipy
